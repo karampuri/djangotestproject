@@ -1,0 +1,10 @@
+Django
+djangorestframework
+PyJWT
+django-filter
+mysqlclient
+django-cors-headers
+pytest
+pytest-django
+pytest-cov
+coverage
