@@ -1,0 +1,15 @@
+*.qodo
+*.env
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+*.swp   
+dist/
+build/  
+*.egg-info/
+*settings.py

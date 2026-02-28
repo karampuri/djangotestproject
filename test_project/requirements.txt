@@ -1,3 +1,4 @@
+dotenv
 Django
 djangorestframework
 PyJWT
